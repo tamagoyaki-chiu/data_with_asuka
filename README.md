@@ -1,2 +1,2 @@
-# data_with_asuka
-line-chat-bot
+# python training
+class
