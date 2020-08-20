@@ -1,2 +1,2 @@
 # python training
-class
+foundational training for python
